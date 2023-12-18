@@ -30,7 +30,7 @@
     <title>Registration Submitted</title>
 </head>
 <body>
-
+	<!--  Registration  -->
 	<h1>Registration Details</h1>
 	
 	<div class="displayForm">
